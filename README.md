@@ -10,7 +10,7 @@ Welcome to your hands-on Git practice! This is a **team lab** designed for 3-4 p
 
 | Name | GitHub Username |
 |------|-----------------|
-| Juan Iznardo | Juanizn |
+| Juan Jesús Iznardo | Juanizn |
 | Alejandro Recasens | alejandrorecasens18 |
 | Dario Sarasa | Zintradev |
 | [To be filled] | [To be filled] |
