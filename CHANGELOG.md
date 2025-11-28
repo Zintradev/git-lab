@@ -4,11 +4,7 @@ All notable changes to the cafeteria menu system will be documented in this file
 
 
 ### 🎯 Task 4 Conflict Zone - DO NOT EDIT TILL TASK 4!
-<<<<<<< HEAD
-## [Unreleased] Version 1.1.0 - Added vegetarian and gluten-free options
-=======
-## [Unreleased] Version 1.1.0 - Added vegetarian and gluten-free options
->>>>>>> main
+## [Unreleased] Version 1.1.0 - Added vegetarian options
 - Bla bla bla    EDIT THIS LINE FOR CONFLICT
 
 ---
